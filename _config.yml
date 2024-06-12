@@ -12,7 +12,7 @@ theme-color: indigo # indigo|yellow|pink|green|stone|
 # homepage information
 author: August Clemmensen
 author-bio: Direktør for BAGSTIV  # change to false to hide
-author-image: 0166.jpg  # file must be in the /assets/img/ folder
+author-image: 279.png  # file must be in the /assets/img/ folder
 
 # navigation menu
 show-nav-menu: false
